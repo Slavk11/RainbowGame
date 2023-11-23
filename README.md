@@ -2,8 +2,7 @@
 
 ### NLP Rainbow is one of the New Code games that will take you into a high-productivity state and reboot your brain!
 
-![RainbowGameGIF](https://github.com/Slavk11/RainbowGame/assets/105375579/5de14664-ce05-4cb7-ba86-3c795650da37)
-
+![RainbowGameGIF](https://github.com/Slavk11/RainbowGame/assets/105375579/98722a6f-7dd2-48d4-8f1f-f7b20646c943)
 
 FEATURES OF THE APP:
 
